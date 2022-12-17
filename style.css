@@ -1,0 +1,19 @@
+
+/* ::-webkit-scrollbar {
+    display: none;
+} */
+
+p, body {
+    padding-bottom: 0;
+    height: 79vh;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Geneva,Tahoma,sans-serif;
+    font-size: 50vh;
+    text-align: center;
+}
